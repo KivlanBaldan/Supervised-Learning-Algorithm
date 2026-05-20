@@ -1,5 +1,5 @@
 # A comprehensive collection of classic Supervised Learning algorithms implemented from scratch and using Scikit-Learn, featuring data preprocessing, model evaluation, and performance visualization.
-# Supervised Learning Algorithms: Implementations & Benchmarks
+
 
 Welcome to my Supervised Learning repository! This project serves as a comprehensive sandbox and portfolio demonstrating the core mathematical concepts, practical implementations, and performance evaluations of foundational supervised machine learning algorithms.
 
